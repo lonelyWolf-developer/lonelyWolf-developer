@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LonelyWolf
 - 👀 I’m interested in ICT, DIY and cycling
-- 🌱 I’m currently learning C# .net
+- 🌱 I’m currently learning C#.NET, JavaScript, HTML/CSS, Bootstrap, Git and much more...
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me? Like here https://vlksamotar.cz/Home/Contact
 
