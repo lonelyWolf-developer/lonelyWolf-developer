@@ -2,7 +2,7 @@
 - 👀 I’m interested in ICT, DIY and cycling
 - 🌱 I’m currently learning C# .net
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me? Like here https://vlksamotar.cz/kontakt.html
+- 📫 How to reach me? Like here https://vlksamotar.cz/Home/Contact
 
 <!---
 lonelyWolf-developer/lonelyWolf-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
